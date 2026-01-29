@@ -138,13 +138,13 @@ DELETE	/api/tasks/{id}	Delete a task
 📸 Screenshots
 
 ### Task Board Pannel
- ![Task Pannel]()
+ ![Task Pannel](https://github.com/tiwarisaurabh786/Task_Board_Lite/blob/main/screenshots/task_pannel.png?raw=true)
 
 ### Create Task
- ![Create Task]()
+ ![Create Task](https://github.com/tiwarisaurabh786/Task_Board_Lite/blob/main/screenshots/task_create.png?raw=true)
 
 ### Edit Task
- ![Edit Task]()
+ ![Edit Task](https://github.com/tiwarisaurabh786/Task_Board_Lite/blob/main/screenshots/task_edit.png?raw=true)
 
 Create Task
 
