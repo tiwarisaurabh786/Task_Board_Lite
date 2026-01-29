@@ -136,7 +136,15 @@ PUT	/api/tasks/{id}	Update a task
 DELETE	/api/tasks/{id}	Delete a task
 
 📸 Screenshots
- 
+
+### Task Board Pannel
+ ![Task Pannel]()
+
+### Create Task
+ ![Create Task]()
+
+### Edit Task
+ ![Edit Task]()
 
 Create Task
 
